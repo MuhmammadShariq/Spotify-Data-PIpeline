@@ -11,7 +11,7 @@
  ### About Spotify API
 The Spotify API is an online platform that allows developers to access Spotify's music data and services. It lets developers create apps that interact with Spotify, so users can search for songs, play music, manage playlists, and get information about artists, albums, and tracks.
 
-In this project, we are using the Spotify playlist (https://open.spotify.com/playlist/4Z2X40gKKjiDzwcKD3K0NG) as our data.
+In this project, we are using the Spotify playlist
 
 ### Services Used
 
